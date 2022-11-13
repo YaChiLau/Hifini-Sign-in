@@ -5,7 +5,7 @@ on:
         branches:
             - main
     schedule:
-        - cron: '0 1 * * *'
+        - cron: '10 8 * * *'
 env:
     TZ: Asia/Shanghai
 
