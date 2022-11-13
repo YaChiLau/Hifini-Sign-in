@@ -6,4 +6,4 @@ Settings => Secrets => New secret
 * COOKIE
 
 
-https://github.com/AlanLang/hifini-auto-sign-in
+[借鉴作者]https://github.com/AlanLang/hifini-auto-sign-in
