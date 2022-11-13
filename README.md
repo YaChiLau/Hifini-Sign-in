@@ -4,3 +4,6 @@
 ## 使用
 Settings => Secrets => New secret
 * COOKIE
+
+
+https://github.com/AlanLang/hifini-auto-sign-in
