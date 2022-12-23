@@ -4,6 +4,7 @@
 ## 使用
 Settings => Secrets => New secret
 * COOKIE
+[hifini](https://www.hifini.com/)网页中抓取有效Cookie
 
 
 [原作者](https://github.com/AlanLang/hifini-auto-sign-in)
